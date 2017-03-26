@@ -1,0 +1,8 @@
+Enums\Day.class
+Models\Workshop.class
+Enums\Area.class
+Managers\WorkshopManager.class
+Models\Football.class
+Enums\Group.class
+Models\Chess.class
+Models\Archery.class
